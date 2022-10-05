@@ -1,6 +1,4 @@
 import tkinter as tk
-from PIL import ImageTk, Image
-from numpy import imag
 
 
 def cadastrarUsuarios():
